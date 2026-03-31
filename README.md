@@ -1,4 +1,4 @@
-# **Computer Vision Tutorials for Beginners**
+# 🚀 **Computer Vision Tutorials for Beginners**
 
 Hello, learning enthusiasts! 👋
 
