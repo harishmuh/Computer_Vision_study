@@ -13,6 +13,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image data preprocessing III: Image blurring & sharpening → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part3.ipynb)
 * Image data preprocessing IV: Erosion, dilatation, morphological gradient, opening & closing operation → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_4.ipynb)
 * Image data preprocessing V: Top-black hat operations and edge detection (Sobel, Otsu, Laplacian filters & Canny edge) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_V.ipynb)
+* Image data preprocessing VI: Contour analysis & Watershed algorithm → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_6.ipynb)
 
 ## 📂 **Deep computer vision tasks**
 
