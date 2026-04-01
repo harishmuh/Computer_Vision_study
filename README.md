@@ -32,7 +32,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image classification with CNN - CIFAR-10 dataset (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR_10.ipynb)
 * Image classification with CNN - CIFAR10 dataset (Pahlevi, 2024) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR10.ipynb)
 * Hand gesture (Rocks-Papers-Scissors) image classification with CNN  → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb)
-* More tutorials coming soon ^_^
+
 
 📌 **Data Preprocessing**
 * Image Preprocessing: Normalization & Augmentation - CIFAR-10 dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Normalisation_%26_Augmentation_CIFAR_10_dataset.ipynb)
@@ -61,6 +61,8 @@ This repository contains curated resources, tutorials, and notebooks for compute
 
 📌 **Semantic segmentation**
 * Nuclei segmentation with U-Net → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/04_Nucleu_Segmentation_semantic_segmentation_pytorch_pynb.ipynb)
+
+ 📌 More tutorials coming soon ^_^
 
 
 ---
