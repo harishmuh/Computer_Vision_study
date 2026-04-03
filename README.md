@@ -18,14 +18,14 @@ This repository contains curated resources, tutorials, and notebooks for compute
 
 ## 📂 **Deep computer vision tasks**
 
-### 🔹 **Deep Neural Network (DNN)**
+### 🔹 **Deep Neural Network (DNN) with TensorFlow and Keras**
 
 📌 **Image classification with neural network**
 * Image classification with DNN - CIFAR10 dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/DNN_CIFAR10.ipynb)
 * Clothing image identification (Fashion-MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
 * Handwritten digit (MNIST) multiclass classification (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_Handwritten_digits_dataset.ipynb)
 
-### 🔹 **Convolutional Neural Networks (CNN)**
+### 🔹 **Convolutional Neural Networks (CNN) with TensorFlow and Keras**
 
 📌 **Application for image classification**
 
