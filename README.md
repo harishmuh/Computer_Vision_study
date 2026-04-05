@@ -15,6 +15,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image data preprocessing V: Top-black hat operations and edge detection (Sobel, Otsu, Laplacian filters & Canny edge) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_V.ipynb)
 * Image data preprocessing VI: Contour analysis & Watershed algorithm → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_6.ipynb)
 * Image data preprocessing VII: Template matching & corner detection (Harris corner & Shi-Thomasi corner detection) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_VII.ipynb)
+* Image data preprocessing VIII: Feature matching (ORB & SIFT algorithms) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_8.ipynb)
 
 ## 📂 **Deep computer vision tasks**
 
