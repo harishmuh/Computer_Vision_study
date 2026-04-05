@@ -2,7 +2,7 @@
 
 Hello, learning enthusiasts! 👋
 
-This repository contains curated resources, tutorials, and notebooks for computer vision study
+This repository contains curated resources, tutorials, and notebooks for computer vision study. We divide the tutorials into two categories: basic computer vision tasks (without deep learning) and deep computer vision tasks (with deep learning). Happy learning!
 
 ## 📂 **Basic computer vision tasks (Non-Deep Learning) and applications**
 
