@@ -7,20 +7,20 @@ This repository contains curated resources, tutorials, and notebooks for compute
 ## 📂 **Basic computer vision tasks (Non-Deep Learning) and applications**
 
 📌 **Image formatting and adding objects**
-* Image data preprocessing I: Color channel, resizing, flipping, rotating & translating → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing.ipynb) 
-* Image data preprocessing II: Adding geometric shapes, image thresholding methods & image blending → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part2.ipynb)
+* Image preprocessing I. Color channel, resizing, flipping, rotating & translating → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing.ipynb) 
+* Image preprocessing II. Adding geometric shapes, image thresholding methods & image blending → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part2.ipynb)
 
 📌 **Image processing with filters**
-* Image data preprocessing III: Image blurring & sharpening → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part3.ipynb)
-* Image data preprocessing IV: Erosion, dilatation, morphological gradient, opening & closing operation → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_4.ipynb)
+* Image preprocessing III. Image blurring & sharpening → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/image_data_preprocessing_part3.ipynb)
+* Image preprocessing IV. Erosion, dilatation, morphological gradient, opening & closing operation → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_4.ipynb)
 * Image data preprocessing V: Top-black hat operations and edge detection (Sobel, Otsu, Laplacian filters & Canny edge) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Image_data_preprocessing_part_V.ipynb)
 
 📌 **Image segmentation**
-* Image data preprocessing VI: Contour analysis & Watershed algorithm → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_6.ipynb)
+* Image preprocessing VI. Contour analysis & Watershed algorithm → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_6.ipynb)
 
-📌 **Feature extraction & matching**
-* Image data preprocessing VII: Template matching & corner detection (Harris corner & Shi-Thomasi corner detection) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_VII.ipynb)
-* Image data preprocessing VIII: Feature matching (ORB & SIFT algorithms) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_8.ipynb)
+📌 **Feature extraction & matching algorithm**
+* Image preprocessing VII. Template matching & corner detection (Harris corner & Shi-Thomasi corner detection) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_VII.ipynb)
+* Image preprocessing VIII. Feature matching: ORB & SIFT algorithms → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_8.ipynb)
 
 
 
