@@ -22,7 +22,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image preprocessing VII. Template matching & corner detection (Harris corner & Shi-Thomasi corner detection) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_VII.ipynb)
 * Image preprocessing VIII. Feature matching: ORB & SIFT algorithms → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_8.ipynb)
 
-📌 **Computer vision task applications**
+📌 **Computer vision tasks/applications - Object detection**
 * Image preprocessing IX. Intro to face detection  (Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_preprocessing_IX.ipynb)
 
 ## 📂 **Deep computer vision tasks**
