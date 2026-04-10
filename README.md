@@ -25,6 +25,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 📌 **Computer vision tasks/applications: Object detection**
 * Intro to face detection (Viola zones/Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_preprocessing_IX.ipynb)
 * Face, nose, and eyes detection (from video)  → [Open notebook](https://colab.research.google.com/drive/1GsbMiadXI0yBOCxD_0Z2j7Vtm2avPSeV?usp=sharing)
+* Car plate detection (Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Car_plate_detection.ipynb)
 
 ## 📂 **Deep computer vision tasks**
 
