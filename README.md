@@ -23,7 +23,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image preprocessing VIII. Feature matching: ORB & SIFT algorithms → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_8.ipynb)
 
 📌 **Computer vision tasks/applications: Object detection**
-* Intro to face detection (Viola zones/Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_preprocessing_IX.ipynb)
+* Intro to face detection (Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_preprocessing_IX.ipynb)
 * Face, nose, and eyes detection (from video)  → [Open notebook](https://colab.research.google.com/drive/1GsbMiadXI0yBOCxD_0Z2j7Vtm2avPSeV?usp=sharing)
 * Car plate detection (Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Car_plate_detection.ipynb)
 
@@ -58,6 +58,10 @@ This repository contains curated resources, tutorials, and notebooks for compute
 📌 **Application for radiology image or disease classification**
 * Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
 * Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
+
+### 🔹 **Object detection with Deep Learning**
+📌 **Object detection with YOLO**
+* Object detection on static images with YOLO(v3) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Yolov3_static_images.ipynb)
   
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
