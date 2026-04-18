@@ -22,10 +22,10 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image preprocessing VII. Template matching & corner detection (Harris corner & Shi-Thomasi corner detection) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_VII.ipynb)
 * Image preprocessing VIII. Feature matching: ORB & SIFT algorithms → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_data_preprocessing_8.ipynb)
 
-📌 **Computer vision tasks/applications: Object detection**
-* Intro to face detection (Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_preprocessing_IX.ipynb)
+📌 **Computer vision tasks/applications: Object detection with Haarcascade**
+* Intro to face detection → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Image_preprocessing_IX.ipynb)
 * Face, nose, and eyes detection (from video)  → [Open notebook](https://colab.research.google.com/drive/1GsbMiadXI0yBOCxD_0Z2j7Vtm2avPSeV?usp=sharing)
-* Car plate detection (Haarcascade model) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Car_plate_detection.ipynb)
+* Car plate detection (EU plate) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Car_plate_detection.ipynb)
 
 ## 📂 **Deep computer vision tasks**
 
@@ -62,7 +62,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 ### 🔹 **Object detection with Deep Learning**
 📌 **Object detection with YOLO**
 * Object detection on static images with YOLO(v3) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Yolov3_static_images.ipynb)
-* Object detection on video with YOLO (v3) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_detection_YOLOv3_video.ipynb)
+* Object detection on video with YOLO(v3) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_detection_YOLOv3_video.ipynb)
   
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
