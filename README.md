@@ -60,9 +60,12 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
 
 ### 🔹 **Object detection with Deep Learning**
-📌 **Object detection with YOLO**
-* Object detection on static images with YOLO(v3) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Yolov3_static_images.ipynb)
-* Object detection on video with YOLO(v3) → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_detection_YOLOv3_video.ipynb)
+📌 **Object detection with YOLO(v3)**
+* Object detection on static images  → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Yolov3_static_images.ipynb)
+* Object detection on video with  → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_detection_YOLOv3_video.ipynb)
+
+📌 **Object detection with YOLO(v8)**
+* Object detection on static images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_detection_with_YOLOv8.ipynb) 
   
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
