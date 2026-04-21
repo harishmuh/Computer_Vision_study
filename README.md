@@ -66,7 +66,8 @@ This repository contains curated resources, tutorials, and notebooks for compute
 
 📌 **Object detection with YOLO(v8)**
 * Object detection on static images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_detection_with_YOLOv8.ipynb) 
-* Object detection on a video  → [Open notebook](https://colab.research.google.com/drive/1aR5RRqSmmjKpvqWReqMsaR3q4u86Fs-i?usp=sharing)  
+* Object detection on a video → [Open notebook](https://colab.research.google.com/drive/1aR5RRqSmmjKpvqWReqMsaR3q4u86Fs-i?usp=sharing)
+* Detect a person in a video  → [Open notebook](https://colab.research.google.com/drive/1M-s6a-EIWrSjrEJl4449W1xDjomRguEt?usp=sharing)
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
 📌 **Multi-Layer Perceptron (MLP)**
