@@ -73,6 +73,9 @@ This repository contains curated resources, tutorials, and notebooks for compute
 📌 **Object segmentation with YOLO(v8)**
 * Object segmentation on static images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_segmentation_YOLOv8.ipynb)
 
+📌 **Object classification with YOLO(v8)**
+* Object classification on static images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_classification_YOLOv8.ipynb)
+
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
 📌 **Multi-Layer Perceptron (MLP)**
