@@ -76,6 +76,9 @@ This repository contains curated resources, tutorials, and notebooks for compute
 📌 **Object classification with YOLO(v8)**
 * Object classification on static images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_classification_YOLOv8.ipynb)
 
+📌 **Other detection application with YOLO(v8)**
+* Human pose detection → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Pose_detection_with_YOLOv8.ipynb)
+
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
 📌 **Multi-Layer Perceptron (MLP)**
