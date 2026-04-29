@@ -76,8 +76,9 @@ This repository contains curated resources, tutorials, and notebooks for compute
 📌 **Object classification with YOLO(v8)**
 * Object classification on static images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Object_classification_YOLOv8.ipynb)
 
-📌 **Other detection application with YOLO(v8)**
+📌 **Other object detection application with YOLO(v8)**
 * Human pose detection → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Pose_detection_with_YOLOv8.ipynb)
+* Aerial view object detection with oriented bounding box (OBB) → [Open notebook](https://colab.research.google.com/drive/1jlh2cGW9FYABeD1WACrvvMIj5Sa99mLe?usp=sharing)
 
 ### 🔹 **Computer vision tasks (with Pytorch)**
 
