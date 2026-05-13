@@ -56,9 +56,10 @@ This repository contains curated resources, tutorials, and notebooks for compute
 📌 **Transfer learning implementation for computer vision**
 * Food Photograph classification - Transfer learning implementation (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/food101_transfer_learning_GPU.ipynb)
 
-📌 **Application for radiology image or disease classification**
-* Brain tumor identification - Binary classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
-* Brain tumor identification - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
+📌 **Application for X-ray images or disease classification**
+* Brain tumor identification - Binary classification - MRI images → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumor_Binary_classification_CNN_with_TF_keras.ipynb)
+* Brain tumor identification - Multiclass classification - MRI images → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Brain_Tumour_Multiclassclassification_CNN_with_TF_keras.ipynb)
+* Pneumonia classification - CNN model - Chest X-ray images → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Pnemounia_image_classification_CNN.ipynb)
 
 ### 🔹 **Object detection with Deep Learning**
 📌 **Object detection with OpenCV - YOLO(v3)**
