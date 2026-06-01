@@ -35,16 +35,16 @@ This repository contains curated resources, tutorials, and notebooks for compute
 * Image classification - Cat vs non-cat → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_DNN.ipynb)
 * Image classification - CIFAR10 dataset → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/DNN_CIFAR10.ipynb)
 * Clothing image identification (Fashion-MNIST) - Multiclass classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/Basic_image_classification_Fashion_Mnist.ipynb)
-* Handwritten digit (MNIST) multiclass classification (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_Handwritten_digits_dataset.ipynb)
+* Handwritten digit (MNIST) multiclass classification (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/MLP_Handwritten_digits_dataset.ipynb) 
 
 ### 🔹 **Convolutional Neural Networks (CNN) with TensorFlow and Keras**
 
 📌 **Image classification with CNN**
-* Image classification - Cat vs non-cat → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb) | [rev-1](https://nbviewer.org/github/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb)
+* Image classification - Cat vs non-cat → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb) | [Nbviewer](https://nbviewer.org/github/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb)
 * Handwritten digit (MNIST) identification (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_Handwritten_digit_MNIST.ipynb)
 * Image classification - CIFAR10 dataset (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR_10.ipynb)
 * Image classification - CIFAR10 dataset (Pahlevi, 2024) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR10.ipynb)
-* Hand gesture (Rocks-Papers-Scissors) image classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb)
+* Hand gesture (Rocks-Papers-Scissors) image classification → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb) | [Nbviewer](https://nbviewer.org/github/harishmuh/Deep-Learning_study/blob/main/CNN_image_classification_RockPaperScissors.ipynb)
 
 
 📌 **Data Preprocessing**
