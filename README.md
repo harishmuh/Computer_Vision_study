@@ -40,7 +40,7 @@ This repository contains curated resources, tutorials, and notebooks for compute
 ### 🔹 **Convolutional Neural Networks (CNN) with TensorFlow and Keras**
 
 📌 **Image classification with CNN**
-* Image classification - Cat vs non-cat → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb)
+* Image classification - Cat vs non-cat → [Open notebook](https://github.com/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb) | [rev-1](https://nbviewer.org/github/harishmuh/Computer_Vision_study/blob/main/Cat_vs_non_cat_CNN.ipynb)
 * Handwritten digit (MNIST) identification (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_Handwritten_digit_MNIST.ipynb)
 * Image classification - CIFAR10 dataset (Gani, 2025) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR_10.ipynb)
 * Image classification - CIFAR10 dataset (Pahlevi, 2024) → [Open notebook](https://github.com/harishmuh/Deep-Learning_study/blob/main/CNN_CIFAR10.ipynb)
